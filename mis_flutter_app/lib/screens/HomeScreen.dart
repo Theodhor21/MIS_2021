@@ -128,6 +128,7 @@ Widget _buildDashboard(BuildContext context, Future<Machines> futureMachines) {
             primaryButton('Add Machine', addMachineToWorkspace),
             Text(
               "This is a text from lborn 2"
+              "Test Text"
             ),
           ],
         ),
