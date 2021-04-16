@@ -127,7 +127,7 @@ Widget _buildDashboard(BuildContext context, Future<Machines> futureMachines) {
             SizedBox(height: 16.0),
             primaryButton('Add Machine', addMachineToWorkspace),
             Text(
-              ""
+              "Hello"
             ),
           ],
         ),
