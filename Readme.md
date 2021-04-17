@@ -5,3 +5,6 @@ This is a repository for a project at FH Aachen!
 1. Theodhor
 2. Louis
 3. Julia
+
+# Plan
+...
